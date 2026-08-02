@@ -53,7 +53,7 @@ const products = [
     id: 6,
     name: "LCD Writing Tablet",
     category: "Tech",
-    price: "₹499",
+    price: "₹335",
     rating: "3.9 ⭐",
     image: "https://m.media-amazon.com/images/I/71GcMTUGhbL._SL1200_.jpg",
     affiliate: "https://amzn.to/3TnevT4"
